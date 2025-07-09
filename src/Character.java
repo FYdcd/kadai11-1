@@ -6,5 +6,5 @@ public abstract class Character {
         System.out.println(this.name + "は、逃げ出した！");
     }
 
-    public abstract void attack(Matango m); // 抽象メソッド
+    public abstract void attack(Matango m);
 }
